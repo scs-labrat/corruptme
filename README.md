@@ -38,7 +38,7 @@ pip install pyfiglet
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/corrupt-me.git
+git clone https://github.com/scs-labrat/corrupt-me.git
 cd corrupt-me
 ```
 
@@ -98,16 +98,3 @@ Attackers use corrupted files to bypass antivirus by exploiting how tools handle
 ## License
 
 This tool is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## Contribution
-
-Feel free to contribute by submitting pull requests, reporting issues, or suggesting improvements. For inquiries, contact the author at [your-email@example.com].
-
----
-
-## Author
-
-Created by **[Your Name](https://github.com/yourusername)**.  
-**GitHub Repository:** [Corrupt Me](https://github.com/yourusername/corrupt-me)
